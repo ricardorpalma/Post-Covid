@@ -1,0 +1,48 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Acerca de esta red",
+      "description": "Red CyTED P321RT0088 \"GESTIÓN CADENA DE SUMINISTROS\n4.0 Y MEJORES PRÁCTICAS POST-COVID\"\n",
+      "author": [],
+      "contents": "\nEquipo de trabajo\n_\nIntegrante\nInstitución Patrocinante\nCorreo\nCompetencias\nH\n\nLorena Andrea Bearzotti\nPontificia Universidad Católica de Valparaíso - Chile\nlorena.bearzotti@pucv.cl\nTICs, BI, Logística Transporte Marítimo\nh10\n\nMiguel García Torres\nUniversidad Pablo de Olavide -Sevilla -España\nmgarciat@upo.es\nData Science & Big Data Lab\nh30\n\nLeopoldo Lopez Lastra\nUniversidad de Talca - Chile\nLeopoldo.lopez.lastra gmail.com\nSistemas de información para hospitales Optimización procesos industriales\nh10\n\nViviana Elizabeth Jiménez Chaves\nUniversidad Americana de Paraguay\nviviana.jimenez@americana.edu.py\nCiencias Sociales y Transporte\nh\n\nRichard Zamora Yansi\nEscuela de Dirección de la Universidad de Piura - Perú\nrzamoray@outlook.com\nh Dirección de Logística y Operaciones\nh\n\nRoxana Martínez Sánchez\nUniversidad Centroccidental Lisandro Alvarado UCLA de Venezuela\nroxanamartinez@ucla.edu.ve\nManufactura y Producción Industria Química\nh10\n\nFrank Alexander Ballesteros Riveros\nUniversidad Militar Nueva Granada - Colombia\nfrank.ballesteros@unimilitar.edu.co\nStorage & Warehouse Location\nh10\n\nMaria Antonieta Riera\nUniversidad Técnica de Manabí - Ecuador\nmaria.riera@utm.edu.ec\nEconomía Circular - Polimeros a partir de residuos de pos cosecha.\nh10\n\nFernando Amado Lópéz\nUniversidad Católica de Bolivia -San Pablo - La Paz - Bolivia\nflopez@ucb.edu.bo\nInnovación en logística y cadena de suministros\nh\n\nRenata Quemel Pires\nCEALMA - Centro de Estudos e Aplicações em Logística e Meio Ambiente - Brasil\ndequemel@yahoo.com.br\nLogística y Medio Ambiente\nh\n\nRicardo R. Palma\nUniversidad Nacional de Cuyo - Argentina\nrpalma@uncu.edu.ar\nCadena de Suministros - Industria 4.0\nh10\n\nSylvia Novillo-Villegas\nUniversidad de las Americas\nsylvia.novillo@udla.edu.ec\nSME Flexibilizacion Cadena de Suministros\nh10\nObjetivos\nEsta red está conformada por investigadores de España, Latinoamérica y Caribe que durante los últimos años han establecido vínculos en torno a los problemas de la logística y las cadenas de suministros. Este grupo, relativamente joven, tiene solamente una veintena de artículos publicados en los que los miembros son co-autores. La instancia de ayuda que CyTED nos provee permitirá que además de dar visibilidad a la red y sumar nuevos miembros, podamos establecer un paso adelante en la conformación de un equipo de alcance internacional que abode los desafíos que el COVID ha impuesto a las cadenas de suministros.\nEste primer paso en nuestra integración comprende actividades del primer año relativas a recoger información en formatos que van desde los datasets hasta crónicas y redacción de casos de estudios que recogen las experiencias, tanto positivas como negativas de las prácticas y estrategias que a nivel de la cadena de suministros las empresas y gobiernos se vieron obligados a concebir y aplicar. La premura y velocidad con la que se tomaron esta decisiones ha impedido que en la región (y nos animamos a decir que en el mundo entero) se registren para la posteridad estos casos. Por ello en este primer año el material recopilado aparecerá más como crónicas que como artículos.\nEn tatno que el segundo año se avanzará sobre los modelos juegos y simuladores.\nNuestras Premisas de Partida\n\n¿Es posible superar la brecha tecnológica y de competitividad en la que han quedado las cadenas de suministro de Latinoamérica y Caribe después del COVID?\n\nEste pregunta de investigación es la clave de esta red territorial financiada por el CyTED y motivará los esfuerzos de estos investigadores durante el año 2022 y 2023.\nCreemos que sí es posible mitigar los inconvenientes y dificultades que este nuevo escenario plantea para la región utilizando más inteligentemente la articulación de las infraestructuras existentes, alineando procesos que optimicen la gestión de la cadena de suministros. Estas acciones pueden detectar o proponer en forma temprana nuevas “buenas prácticas” soportadas por la Industria 4.0 que aceleren la recuperación de los sistemas productivos mediante:\nConformación de un observatorio de becnhmarking de gestión de cadenas de suministros e identificación de las mejores prácticas, basado en un portal activo usando tecnologías como CKAN (https://ckan.org/) FAL\nProponer unas instancia de formación continua para funcionarios gubernamentales, cooperativas y PyMEs que permitan la continuidad de acciones y políticas de estado aún cuando se produzcan alternancias democráticas en los mandatos de los mismos.\nFormular una serie de modelos y simuladores para ser utilizados en entrenamiento de decisores del área de SCM basados en instancias de Serious Games Jupyter Notebooks\n\n\n\n",
+      "last_modified": "2023-05-01T17:59:55-03:00"
+    },
+    {
+      "path": "Dataverso.html",
+      "title": "Dataverso",
+      "description": "Colección de Datasets del Proyecto\n",
+      "author": [
+        {
+          "name": "Ricardo R. Palma",
+          "url": "https://themys.sid.uncu.edu.ar"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nCKANEn desarrollo\n\n\n\n",
+      "last_modified": "2022-05-29T23:15:26-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "CyTED SCM Post-Covid",
+      "author": [],
+      "contents": "\nSitio del grupo de trabajo\nVer publicaciones recientes - actualizado 1 de Octubre 2023\n\n\n\n",
+      "last_modified": "2023-10-01T20:38:16-03:00"
+    },
+    {
+      "path": "publicaciones.html",
+      "title": "Producción del grupo",
+      "description": "Aquí encontrarás links a las publicaciones de los integrantes de esta red.\n",
+      "author": [
+        {
+          "name": "Ricardo R. Palma",
+          "url": "https://themys.sid.uncu.edu.ar"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nPrincipal publicación de la red\nUno de los aspectos más relevantes que permitieron la recuperación de las actividades en el período post-pandemia ha sido el de la resiliencia de las infraestructuras críticas de la región.\nLas infraestructuras críticas, tal como son definidas por Masera et al. en \\(^{(1)}\\)\ntienen en la región una característica particular. Como consecuencia de la falta de inversión las mismas presentan un retraso que hace que se deba utilizar\ninteligentemente para satisfacer la demanda creciente que las impacta.\nEn esta publicación en la que se contrastan las mejores prácticas de la cadena de suministos que se han identificado como parte de la investigación de esta red se señalan casos de estudios a nivel global en los que se demuestra como estas infraestructuras ha sido el motor de innovación que permitió una rápida recuperación de las cadenas de suministros.\n\n(Link Publicacion digital IC_SCM)[https://ricardorpalma.github.io/IC_SCM/]\nRef.\n\n1- Masera, G. (2008). Impactos en la Sociedad Global de la información. Una interpretación desde América Latina. Políticas Públicas, 2(1), 1-22.\n\nPlan de continuidad de negocio\npara la reactivació n de la productividad de las industrias quı́micas en tiempos de pandemia de COVID-19\nCastillejo, Fredy Efrain fecastillejom@uni.pe\nUniversidad Nacional de Ingeniería (Perú)\nFecha de recepción: 13/10/2021\nFecha de aprobación COINI: 19/10/20214\nFecha de aprobación RIII: 19/01/2022\nlink\nResumen:\nEn plena crisis por el COVID-19 muchas industrias químicas se han adaptado a la nueva normalidad, el estado de confinamiento obligatorio nos ha enseñado muchas lecciones, algunas empresas no tenían previstas planes de contingencia para una pandemia y muchas industrias químicas se fueron adaptando a la situación de emergencia para garantizar el suministro de productos y servicios a las actividades productivas esenciales para la reactivación económica de los países mineros como Chile y Perú. La implementación de planes de continuidad de negocio se ha revelado como una de las prioridades que deben cuidar las empresas. Con esta pandemia sabemos que no solamente este tipo de incidentes ponen en riesgo financiero a las empresas si no también una interrupción o retraso grave en la cadena de suministro, la imposibilidad de acceder al puesto de trabajo, una caída abrupta en la demanda, la acumulación de stocks o el encarecimiento repentino de algún factor de producción son situaciones que han sido revelados en este contexto. El objetivo de este artículo es mostrar los principales elementos de un plan de continuidad de negocio para tiempos de pandemia y se presenta un caso de éxito de una industria química que ha afrontado la continuidad de sus operaciones para garantizar el suministro de productos químicos a las actividades esenciales de las industrias mineras, favoreciendo así a la continuidad de las operaciones en la cadena de suministro vinculada a ella.\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2023-10-01T19:28:19-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
